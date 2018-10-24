@@ -37,6 +37,13 @@ Module.symvers
 *.dwo
 
 #
+# Kernel Files
+#
+Buildlog.txt
+out/
+
+
+#
 # Top-level generic files
 #
 /tags
