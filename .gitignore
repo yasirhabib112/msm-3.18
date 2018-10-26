@@ -41,6 +41,9 @@ Module.symvers
 #
 Buildlog.txt
 out/
+Zipper/boot/
+Zipper/*.zip
+Zipper/*.sha1
 
 
 #
