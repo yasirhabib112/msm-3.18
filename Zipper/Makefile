@@ -1,6 +1,6 @@
 NAME ?= LH-Kernel
 
-VERSION ?= Vince
+VERSION ?= Vince-Rebase
 
 DATE := $(shell date +'%Y%m%d')
 

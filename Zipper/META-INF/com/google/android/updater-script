@@ -1,6 +1,6 @@
 assert(getprop("ro.product.device") == "vince" || getprop("ro.build.product") == "vince" || abort("E3004: This package is for device: vince; this device is " + getprop("ro.product.device") + "."););
 ui_print("===================================");
-ui_print("|            LH KERNEL            |");
+ui_print("|        LH KERNEL REBASE         |");
 ui_print("|_________________________________|");
 ui_print("|     Redmi 5P | HM5P | Vince     |");
 ui_print("===================================");
