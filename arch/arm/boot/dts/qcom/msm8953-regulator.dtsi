@@ -403,7 +403,7 @@
 				qcom,cpr-speed-bins = <8>;
 				qcom,cpr-speed-bin-corners =
 					/* Speed bin 7 */
-					<9 0 9 0 0 0 7 9>;
+					<9 9 9 9 9 9 9 9>;
 				qcom,cpr-corners =
 					/* Speed bin 7 */
 					<9 9 9 9 9 9 9 9>;
