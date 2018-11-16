@@ -36,6 +36,14 @@ Module.symvers
 *.dwo
 
 #
+# LH Kernel files
+#
+Buildlog.txt
+Shocker/*.zip
+Shocker/*.sha1
+Shocker/boot/
+out/
+#
 # Top-level generic files
 #
 /tags
