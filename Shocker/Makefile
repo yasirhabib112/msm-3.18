@@ -1,6 +1,6 @@
 NAME ?= LH-Kernel
 
-VERSION ?= Bass-Rebase
+VERSION ?= SHOCKER
 
 DATE := $(shell date +'%Y%m%d')
 
